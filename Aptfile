@@ -33,6 +33,4 @@ libboost-all-dev
 libpthread-stubs0-dev
 zlib1g-dev
 software-properties-common
-libtorrent-rasterbar-dbg
-qbittorrent-dbg
 qbittorrent-nox
