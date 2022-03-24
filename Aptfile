@@ -1,7 +1,7 @@
 software-properties-common
-python3
-python3-pip
-python3-lxml
+# python3
+# python3-pip
+# python3-lxml
 aria2
 qbittorrent-nox
 tzdata
@@ -12,9 +12,9 @@ wget
 curl
 pv
 jq
-ffmpeg
+# ffmpeg
 locales
-unzip
+# unzip
 neofetch
 mediainfo
 git
