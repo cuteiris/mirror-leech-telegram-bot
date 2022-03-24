@@ -31,6 +31,7 @@ pip install tenacity
 pip install tgCrypto
 pip install urllib3
 pip install yt-dlp
+pip3 install --no-cache-dir megasdk-3.9.1-*.whl
 
 # bash megasdk.sh
 # cd /app
