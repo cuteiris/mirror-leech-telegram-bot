@@ -181,12 +181,12 @@ def aria2c_init():
     except Exception as e:
         logging.error(f"Aria2c initializing error: {e}")
         pass
-'''
+
 if not ospath.isfile(".restartmsg"):
     sleep(1)
     Thread(target=aria2c_init).start()
     sleep(1.5)
-'''
+
 try:
     DB_URI = getConfig('DATABASE_URL')
     if len(DB_URI) == 0:
