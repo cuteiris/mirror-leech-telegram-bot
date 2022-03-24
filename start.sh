@@ -1,3 +1,4 @@
+pip install wheel
 pip install anytree
 pip install appdirs
 pip install aria2p
